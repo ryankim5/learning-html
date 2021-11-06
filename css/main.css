@@ -33,4 +33,8 @@ body {
 .navbar li a:hover {
   background-color: lime;
 }
+
+.no-margin-top {
+  margin-top: 0;
+}
 /*# sourceMappingURL=main.css.map */
