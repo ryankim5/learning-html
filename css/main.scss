@@ -22,6 +22,7 @@ body {
 
     h1 {
         float: left;
+        background-color: white;
     }
     
     li a {
@@ -39,4 +40,13 @@ body {
 
 .no-margin-top {
     margin-top: 0;
+}
+
+.list-elements span {
+    color: white;
+}
+.round-boxed-red {
+    background-color: red;
+    border-radius: 1em;
+    padding: 2px 5px 2px 5px;
 }
