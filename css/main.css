@@ -35,6 +35,10 @@ body {
   background-color: lime;
 }
 
+.navbar li h1 a:hover {
+  background-color: white;
+}
+
 .no-margin-top {
   margin-top: 0;
 }
@@ -47,5 +51,17 @@ body {
   background-color: red;
   border-radius: 1em;
   padding: 2px 5px 2px 5px;
+}
+
+.blue {
+  color: blue;
+}
+
+.underlined {
+  text-decoration: underline;
+}
+
+.red {
+  color: red;
 }
 /*# sourceMappingURL=main.css.map */
